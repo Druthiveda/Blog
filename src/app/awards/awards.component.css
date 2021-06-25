@@ -1,0 +1,12 @@
+.one{
+    border-collapse: collapse;
+    border-color: rgb(201, 194, 194);
+    text-align: left;
+    font-size: 22px;
+    font-style:italic;
+    font-weight: 500;
+}
+thead{
+    text-align:center;
+    font-size: 30px;
+}

@@ -1,0 +1,12 @@
+.one{
+    border-collapse: collapse;
+    border-color: transparent;
+    text-align: left;
+    font-size: 28px;
+    line-height: 35px;
+    font-style:italic;
+}
+
+td,h1{
+    color:whitesmoke;
+}

@@ -1,0 +1,20 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar{
+    font-size: 23px;
+    padding: 2px;
+    font-weight: 600;
+}
+.navbar-nav > li{
+    padding-left:36px;
+    padding-right:36px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+  }
+a:hover{
+    background-color: rgba(0, 0, 0, 0.404);
+}
+a::after{
+    background-color: rgba(0, 0, 0, 0.404);
+}
